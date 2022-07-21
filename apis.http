@@ -1,0 +1,11 @@
+GET https://api.weather.gov/points/39.7456,-97.0892
+User-Agent: Today's Hourly Weather (educational demo), dmg@kenzie.academy
+Accept: application/ld+json
+
+###
+
+GET https://api.weather.gov/gridpoints/TOP/31,80/forecast/hourly
+User-Agent: Today's Hourly Weather (educational demo), dmg@kenzie.academy
+Accept: application/ld+json
+
+###
